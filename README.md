@@ -4,7 +4,7 @@
 
 ## 1️⃣ Perceptrón por Agentes  
 
-### 🔍 Resumen  
+### Resumen  
 Este proyecto implementa un **perceptrón simple** que aprende a separar puntos 2D linealmente separables.  
 Cada punto de entrenamiento se maneja como un **objeto autónomo**, y el modelo principal simula el proceso de aprendizaje ajustando los pesos y el sesgo.  
 El sistema incluye una **interfaz gráfica interactiva** desarrollada con **Matplotlib**, la cual permite observar en tiempo real la evolución de la frontera de decisión y la precisión del modelo.
